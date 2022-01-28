@@ -42,9 +42,13 @@ E depois:
 
 ```sh
   # Abra pasta do projeto
-  $ cd src
+  $ cd biblioteca-api
   # Instale as dependencias
   $ yarn ou npm install
   # Rode a aplicação
   $ yarn start ou npx nodemon index.js
 ```
+
+
+https://user-images.githubusercontent.com/86244416/151633160-acf9a40d-452c-435e-b19e-e8b4b2df093f.mp4
+
